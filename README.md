@@ -1,3 +1,4 @@
 # Arduino-Uno
 Arduino Uno Submission
-My project using the Arduino Uno wifi would be to attach a air quality sensor(s) (ie. particle sensor and the like) to the Aridunio that links to a progam or app (most likely written in Processing) that can interpret the data sent from the Uno WIfi to let the user know the air quality that the user is breathing in. 
+
+My project for using the Arduino Uno wifi would be attached to one or more air quality sensors (ie. particle sensor and others). The Ariduino would be linked to a progam or app (written in Processing) that sends the data collected by the Arduino which the program can analyze the data, interpret it and display the results to the user. 
